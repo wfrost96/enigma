@@ -1,4 +1,5 @@
 # The Enigma machine
-<p>As enigma.py is, it will work in the command line. You'll have to edit the file itself to change the inputs.</p>
-<p>If you want to use enigma.py with enigma.php, unblock the sysarg and block the manual inputs.</p>
+<p>This is my fully functioning World War Two-era Enigma machine. Three rotors, one reflector, and six letter pair switches.</p>
+<p>To get this working right away, download enigma_cmd.py and access it through the command line. A few taps on the keyboard and you'll have successfully coded your first message in Enigma.</p>
+<p>The file enigma.py is set up to work with enigma.php, which creates a nice user-friendly interface to use the Enigma machine in a browser.</p>
 <p>All credit to williamfro.st please.</p>
